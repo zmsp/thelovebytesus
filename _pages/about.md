@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 title: "About Zobairto"
 excerpt: "No Templates"
 layout: single

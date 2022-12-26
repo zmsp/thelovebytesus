@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -43,7 +43,7 @@ comments:
     num_posts: 10 # 5 (default)
     colorscheme: "dark" # "light" (default), "dark"
   utterances:
-    theme: "neon" # "github-light" (default), "github-dark"
+    theme: "github-light" # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
   giscus:
     repo_id: "MDEwOlJlcG9zaXRvcnk1Nzc1MDYyMA==" # Shown during giscus setup at https://giscus.app

@@ -7,13 +7,17 @@ date: 2022-12-25
 modified: 2022-12-25
 
 ---
-# About Zobairto
-## Who dis?
-This is Zobairto. He kept a diary of his journey, documenting the people he met and the lessons he learned. Through his website building process, he was able to connect with the right person, and his story has become an inspiration to many. Zobairto has shown that with hard work, determination, and the right technology, anything is possible.
+# Zobairto's lessons
+## Lessons so far... on rejection
+1. Respect a "no" answer.
+2. Don't linger on the rejection.
+3. Pretend it never happened.
+## Lessons so far... on success
+1. Be friendly
+2. Make jokes
+3. Be happy and cheerful
+4. Make people around you happy
+5. Have no expectations
+6. Stay clean and take care of yourself
 
-As a bonus, other people can read about it to learn from Zobairto's mistakes. 
-
-## Why the site was created?
-In summary, this project aims to provide a platform for people to easily find compatible partners. It will facilitate connection between individuals, provide a database for potential matches, and offer a secure and safe environment for users.
-
-Zobairto learned a lot of lessons from his mistakes, and he encourages others to learn from them and move forward quickly. :)  
+Thx for reading. :) 

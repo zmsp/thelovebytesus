@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /about
 title: "About Zobairto"
-excerpt: "Some guy who's taking a journey"
+excerpt: "No Templates"
 layout: single
 date: 2022-12-25
 modified: 2022-12-25

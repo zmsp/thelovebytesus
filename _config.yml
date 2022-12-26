@@ -18,9 +18,9 @@ minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "en-US"
 title: "TLB | ?"
 title_separator: "-"
-subtitle: "the love bytes us"# site tagline that appears below site title in masthead
+subtitle: "The.Love.Bytes.Us"# site tagline that appears below site title in masthead
 name: "The Bitten One"
-description: "The Love Bytes Us"
+description: "The.Love.Bytes.Us"
 url: "https://thelovebytes.us"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "zmsp/thelovebytesus"

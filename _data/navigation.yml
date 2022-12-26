@@ -1,18 +1,16 @@
 # main links
 main:
 
-   - title: "About"
-     url: /
    - title: "Posts"
-     url: /posts
+     url: /
+   - title: "About"
+     url: /about
+   - title: "About"
+     url: /lessons
    - title: "Projects"
      url: /projects/
    - title: "Blogs by year"
      url: /year-archive/
-   - title: "Collections"
-     url: /collection-archive/
-   - title: "Category"
-     url: /categories/
    - title: "Tags"
      url: /tags/
    - title: "Sitemap"

@@ -16,14 +16,27 @@ toc: true
 ---
 Current Stats
 
-|           | Knew Before | Dating App | Blind Ask |
-|-----------|-------------|------------|-----------|
-| Success   | 0           | 4          | 0         |
-| Rejection | 5           | 20         | 0         |
+# In Person:
+Success: 0
+Rejection: 5
 
 
+
+# Using  Dating App:
+
+## After match
+Success: 4
+Rejection: 20
+
+# Blind Ask walk and ask:
+Success: 0
+Rejection: 0
+
+# Summary 
 * Total successful relationship created after asking (friends or otherwise): 6
 * Total failures: Not that many
 * Total people I haven't asked: Many
 * Total successful relationships compared to the number of presidents named Bush: Less
+
+Lesson: better to ask then dont. 
 

@@ -115,9 +115,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/thelovebytesus/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thelovebytes"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok-square"
+      url: "https://www.tiktok.com/@thelovebytesus"
 
 
 # Reading Files

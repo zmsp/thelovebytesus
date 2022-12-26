@@ -18,3 +18,9 @@ In summary, this project aims to provide a platform for people to easily find co
 Zobairto learned a lot of lessons from his mistakes, and he encourages others to learn from them and move forward quickly. 
 
 And thank you for reading up to this point taking a part of my journey. :)  
+
+## How can you follow us?
+Check out the follow button or the footer at the bottom of this site. We will be maintaining
+* Instagram
+* Twitter
+... and more... 

@@ -22,5 +22,8 @@ Current Stats
 | Rejection | 5           | 20         | 0         |
 
 
-Total Successful Relationship created after ask (friends or otherwise): 6
+* Total successful relationship created after asking (friends or otherwise): 6
+* Total failures: Not that many
+* Total people I haven't asked: Many
+* Total successful relationships compared to the number of presidents named Bush: Less
 

@@ -16,14 +16,14 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "en-US"
-title: "TIL | Zobair"
+title: "TLB | ?"
 title_separator: "-"
-subtitle: "Today I Learned"# site tagline that appears below site title in masthead
-name: "Zobair Shahadat"
-description: "Today I learned"
-url: "https://zobairshahadat.com"
-baseurl: # the subpath of your site, e.g. "/blog"
-repository: "zmsp/zmsp.github.io"
+subtitle: "the love bytes us"# site tagline that appears below site title in masthead
+name: "The Bitten One"
+description: "The Love Bytes Us"
+url: "https://thelovebytes.us"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+repository: "zmsp/thelovebytesus"
 teaser: "images/preview.JPG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -93,10 +93,8 @@ social:
   type: "Person" # Person or Organization (defaults to Person)
   name: "Zobair Shahadat" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://github.com/zmsp"
-    - "https://www.linkedin.com/in/zshahadat"
-    - "https://plus.google.com/+BiggZee"
-    - "https://twitter.com/littlebigcoder"
+    - "https://www.instagram.com/thelovebytesus/"
+    
 
 # Analytics
 analytics:
@@ -108,20 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name: "Zobair Shahadat"
-  avatar: "https://avatars0.githubusercontent.com/u/949058?v=3&s=560"
-  bio: "Full time coder"
-  location: "United States"
-  email: "zobair.career@gmail.com"
+  name: "Someone"
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/littlebigcoder"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zmsp"
-
-
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/thelovebytesus/"
 
 # Site Footer
 footer:

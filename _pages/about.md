@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About Zobairto"
 excerpt: "Some guy who's taking a journey"
 layout: single

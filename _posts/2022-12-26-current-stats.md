@@ -14,13 +14,20 @@ tags:
 toc: true
 
 ---
-Current Stats
+TLDR: In total, I have had 6 successful relationships created after asking (friends or otherwise) and many more rejections than successes. Comparing the number of presidents named Bush, I have had less successful long term relationship. This shows that it is better to ask than not, as you may
+
+# Summary 
+* Total successful relationship created after asking (friends or otherwise): 6
+* Total failures: Not that many
+* Total people I haven't asked: Many
+* Total successful relationships compared to the number of presidents named Bush: Less
+
+Lesson: better to ask then dont. 
+
 
 # In Person:
 Success: 0
 Rejection: 5
-
-
 
 # Using  Dating App:
 
@@ -32,11 +39,5 @@ Rejection: 20
 Success: 0
 Rejection: 0
 
-# Summary 
-* Total successful relationship created after asking (friends or otherwise): 6
-* Total failures: Not that many
-* Total people I haven't asked: Many
-* Total successful relationships compared to the number of presidents named Bush: Less
-
-Lesson: better to ask then dont. 
+Currently I am using spreadsheet to track this. I might create a database. 
 

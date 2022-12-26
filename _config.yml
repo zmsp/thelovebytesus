@@ -81,7 +81,7 @@ naver_site_verification:
 baidu_site_verification:
 # Social Sharing
 twitter:
-  username: "littlebigcoder"
+  username: "thelovebytesus"
 facebook:
   username:
   app_id:
@@ -120,7 +120,7 @@ footer:
       url: "https://www.instagram.com/thelovebytesus/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/thelovebytes"
+      url: "https://twitter.com/thelovebytesus"
     - label: "Tiktok"
       icon: "fab fa-fw fa-tiktok-square"
       url: "https://www.tiktok.com/@thelovebytesus"

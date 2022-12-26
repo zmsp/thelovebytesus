@@ -1,18 +1,31 @@
 ---
 permalink: /about/
-title: "About Zobair"
-excerpt: "Some guy who likes to build"
+title: "About John Cina"
+excerpt: "Some guy who's taking a journey"
 layout: single
-date: 2022-05-01
-modified: 2022-05-01
+date: 2022-12-25
+modified: 2022-12-25
 
 ---
-The Love Journey site was created to document my journey of finding and nurturing love. It is a place where I can share my experiences in the pursuit of true love, and where I can also document the lessons I have learned along the way.
 
-I hope to provide an inspirational and educational platform for others who are on the same journey and to create an online community of people who are passionate about the search for true love. On the site, I will post stories about my own experiences, advice and tips on finding and maintaining relationships, and thoughts and reflections on the complexities of love.
+## Ideal story goal
+Jobair went ahead and created the website and began his journey. He visited posts, read stories, and kept track of the people he met. He also kept a diary of his experiences and the lessons he learned along the way.
 
-My social links are also available on the site, so that I can connect with other people who are interested in the same topics. This way, I can expand my network of people who are open to learning and sharing, and to whom I can turn to when I need advice or support. 
+As the weeks and months went by, John continued his journey and eventually found someone he wanted to get to know better. By the end of 2023, John had found the perfect match for him.
 
-If you're on a similar journey, I invite you to join me on my Love Journey and to be part of this growing community. Together, we can learn, grow, and be inspired.
+Jobair's website was a huge success and he was able to find the right person just by using technology and data. He was able to find the perfect match with the help of his website, and the experience has changed his life forever.
 
-Welcome to my Love Journey site! It's the place where I'm documenting my crazy, wild ride of finding true love. Here, I'll share my shames, experiences and the lessons I've learned on the pursuit of love. Plus, you can get advice and tips for finding and maintaining relationships, and connect with others who are equally passionate about the search for love. So, if you're ready for a wild ride, hop on board and join me on this Love Journey!
+
+## Why the site was created?
+This is still a work in progress as I am brainstorming ideas. Some potential goals are. 
+
+- To help people find someone who is compatible with them 
+- To provide a platform for people to connect with each other 
+- To provide an easy way to track the progress of each individual’s search 
+- To provide an easy way to keep track of the various contacts made throughout the process 
+- To help individuals identify and target potential partners 
+- To create a database of potential matches 
+- To allow people to easily search for compatible partners 
+- To provide a medium for individuals to communicate with each other without having to meet in person 
+- To help individuals make informed decisions when searching for a compatible partner 
+- To provide a safe and secure environment to find a partner

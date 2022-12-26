@@ -40,7 +40,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid: "435797910235376"
-    num_posts: 8 # 5 (default)
+    num_posts: 10 # 5 (default)
     colorscheme: "dark" # "light" (default), "dark"
   utterances:
     theme: "neon" # "github-light" (default), "github-dark"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Someone"
+  name: "Someone taking a journey"
   links:
-    - label: "Twitter"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://www.instagram.com/thelovebytesus/"
 
@@ -116,8 +116,8 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/littlebigcoder"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/thelovebytesus/"
 
 
 # Reading Files
@@ -248,7 +248,7 @@ compress_html:
 # Collections
 collections:
   projects:
-    output: true
+    output: false
     permalink: /:collection/:path/
   posts:
     output: true

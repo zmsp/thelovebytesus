@@ -1,14 +1,15 @@
 Privacy Policy
 ==============
 
-Effective date: July 30, 2018
 
-TLI-Zobair ("us", "we", or "our") operates the zmsp.github.io website (the "Service").
+### For the Content:
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for TLI-Zobair is powered by [FreePrivacyPolicy.com](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
+I want to create a safe and comfortable space for anyone who visits this site. I am open to feedback and suggestions to make this a better experience for all. If you have any questions or concerns, please don't hesitate to reach out.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from zmsp.github.io
 
+
+
+### If you are the visitors of the site
 Information Collection And Use
 ------------------------------
 
@@ -18,9 +19,7 @@ We collect several different types of information for various purposes to provid
 
 #### Personal Data
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
-
-*   Cookies and Usage Data
+Cookies and Usage Data
 
 #### Usage Data
 

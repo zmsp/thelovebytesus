@@ -1,0 +1,307 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-US"
+title: "TIL | Zobair"
+title_separator: "-"
+subtitle: "Today I Learned"# site tagline that appears below site title in masthead
+name: "Zobair Shahadat"
+description: "Today I learned"
+url: "https://zobairshahadat.com"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "zmsp/zmsp.github.io"
+teaser: "images/preview.JPG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs: false # true, false (default)
+words_per_minute: 200
+
+
+comments:
+  provider: "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid: "435797910235376"
+    num_posts: 8 # 5 (default)
+    colorscheme: "dark" # "light" (default), "dark"
+  utterances:
+    theme: # "github-light" (default), "github-dark"
+    issue_term: # "pathname" (default)
+  giscus:
+    repo_id: "MDEwOlJlcG9zaXRvcnk1Nzc1MDYyMA==" # Shown during giscus setup at https://giscus.app
+    category_name: "General" # Full text name of the category
+    category_id: "DIC_kwDOA3E0XM4B_J5O" # Shown during giscus setup at https://giscus.app
+    discussion_term: # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled: "1" # '1' for enabled (default), '0' for disabled
+    theme: "transparent_dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  staticman:
+    branch: # "master"
+    endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey:
+  secret:
+atom_feed:
+  path: # blank (default) uses feed.xml
+  hide: # true, false (default)
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+search_provider: lunr # lunr (default), algolia, google
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
+google:
+  search_engine_id: # YOUR_SEARCH_ENGINE_ID
+  instant_search: # false (default), true
+# SEO Related
+google_site_verification: "1dwJeYyPkMRmBD8-WH5cisAOiGP5gRSCE13CfW8YLbs"
+bing_site_verification: "B8B1FAF0921F46854E19AB3D4D215381"
+alexa_site_verification:
+yandex_site_verification: "629540d8a5db783f"
+naver_site_verification:
+baidu_site_verification:
+# Social Sharing
+twitter:
+  username: "littlebigcoder"
+facebook:
+  username:
+  app_id:
+  publisher:
+og_image: "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type: "Person" # Person or Organization (defaults to Person)
+  name: "Zobair Shahadat" # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://github.com/zmsp"
+    - "https://www.linkedin.com/in/zshahadat"
+    - "https://plus.google.com/+BiggZee"
+    - "https://twitter.com/littlebigcoder"
+
+# Analytics
+analytics:
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: "UA-48252950-4"
+    anonymize_ip: # true, false (default)
+
+
+# Site Author
+author:
+  name: "Zobair Shahadat"
+  avatar: "https://avatars0.githubusercontent.com/u/949058?v=3&s=560"
+  bio: "Full time coder"
+  location: "United States"
+  email: "zobair.career@gmail.com"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/littlebigcoder"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zmsp"
+
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/littlebigcoder"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 8 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"

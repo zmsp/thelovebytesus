@@ -1,0 +1,18 @@
+# main links
+main:
+   - title: "Posts"
+     url: /
+   - title: "Projects"
+     url: /projects/
+   - title: "About"
+     url: /about
+   - title: "Blogs by year"
+     url: /year-archive/
+   - title: "Collections"
+     url: /collection-archive/
+   - title: "Category"
+     url: /categories/
+   - title: "Tags"
+     url: /tags/
+   - title: "Sitemap"
+     url: /page-archive/

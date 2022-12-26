@@ -1,6 +1,6 @@
 ---
-title:  "The First Post"
-excerpt: "Thought it would be fun to document the lessons I'v learned on my love journey. So this space was created"
+title:  "Statistics before the project"
+excerpt: "These are the numbers"
 header:
   teaser: https://i.imgur.com/R7CbUmn.jpg
   og_image: https://i.imgur.com/R7CbUmn.jpg
@@ -9,6 +9,7 @@ categories:
   - blog
 tags:
   - success
+  - failures
 
 toc: true
 
@@ -20,4 +21,6 @@ Current Stats
 | Success   | 0           | 4          | 0         |
 | Rejection | 5           | 20         | 0         |
 
+
+Total Successful Relationship created after ask (friends or otherwise): 6
 

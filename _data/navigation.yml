@@ -2,10 +2,10 @@
 main:
    - title: "Posts"
      url: /
-   - title: "Projects"
-     url: /projects/
    - title: "About"
      url: /about
+   - title: "Projects"
+     url: /projects/
    - title: "Blogs by year"
      url: /year-archive/
    - title: "Collections"

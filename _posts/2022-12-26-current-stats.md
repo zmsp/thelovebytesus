@@ -21,27 +21,11 @@ Altogether, I have had 6 notches in my belt after asking around (friends or othe
 
 
 # Summary 
-* Total successful relationship created after talking (friends or otherwise): 6
+
 * Total failures: Not that many
 * Total people I haven't asked: Many
-* Total successful relationships compared to the number of presidents named Bush: Less
-
-Lesson: better to talk then dont. 
 
 
-# In Person asking out:
-Success: 0
-Rejection: 5
-
-# Using  Dating App:
-
-## After match
-Success: 4
-Rejection: 20
-
-# Blind Ask walk and ask:
-Success: 0
-Rejection: 0
 
 
-I'm going to keep track of how many buddies I make next year with a system I'll put in place.
+I'm going to keep track of how many people I meet on 2023 who would are willingly want to share my interactions.

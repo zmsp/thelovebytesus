@@ -17,15 +17,4 @@ toc: true
 
 still drafting-- 
 
-Altogether, I have had 6 notches in my belt after asking around (friends or otherwise) and a lot more no's than yes's when I tried my luck. Compared to the amount of presidents named Bush, I've had fewer successful long-term relationships.
-
-
-# Summary 
-
-* Total failures: Not that many
-* Total people I haven't asked: Many
-
-
-
-
-I'm going to keep track of how many people I meet on 2023 who would are willingly want to share my interactions.
+rethink the way to keep track of lessons and how they link to a story.

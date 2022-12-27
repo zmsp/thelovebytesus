@@ -14,7 +14,7 @@ This is Zobair! He kept a travel journal, noting all the cool people he met and 
 ## Why the site was created?
 Document life lessons and relationship advices to people in the name of building a goid relationship.
 
-Learned lessons here we go! The lessons are available on the menu of this site. I will be growing this site after I get the right permission. 
+Learned lessons here we go! The lessons are available on the menu of this site. I will be growing this site after I get the right permission from the individual whos kind enough to allow me to share.
 
 
 ## How can you follow us?

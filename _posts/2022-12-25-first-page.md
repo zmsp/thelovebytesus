@@ -13,4 +13,4 @@ tags:
 toc: true
 
 ---
-Welcome to my Love Journey site! It's the place where I'm documenting my crazy, wild ride of finding true love. Here, I'll share my shames, experiences and the lessons I've learned on the pursuit of love. Plus, you can get advice and tips for finding and maintaining relationships, and connect with others who are equally passionate about the search for love. So, if you're ready for a wild ride, hop on board and join me on this Love Journey!
+Welcome to my corner of the world! Here, I'm delighted to share stories, experiences and lessons that have helped me build meaningful relationships. I'm also excited to provide helpful advice and tips that will help you find and sustain relationships. I hope you find something useful here that will make your relationships even stronger.

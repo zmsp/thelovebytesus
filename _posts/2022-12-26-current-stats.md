@@ -1,5 +1,5 @@
 ---
-title:  "Statistics before the project"
+title:  "Statistics after start of the project"
 excerpt: "These are the numbers"
 header:
   teaser: https://i.imgur.com/R7CbUmn.jpg

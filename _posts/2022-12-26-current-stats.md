@@ -15,6 +15,8 @@ toc: true
 
 ---
 
+still drafting-- 
+
 Altogether, I have had 6 notches in my belt after asking around (friends or otherwise) and a lot more no's than yes's when I tried my luck. Compared to the amount of presidents named Bush, I've had fewer successful long-term relationships.
 
 

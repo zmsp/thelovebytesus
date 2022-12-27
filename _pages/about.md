@@ -12,8 +12,10 @@ modified: 2022-12-25
 This is Zobair! He kept a travel journal, noting all the cool people he met and the life lessons he picked up. With his website-building knowhow, he hopes to make connections and sharpen his writing chops.
 
 ## Why the site was created?
+Document life lessons and relationship advices to people in the name of building a goid relationship.
 
-Learned lessons here we go! These are some of the missteps I've made that I can share with you. 
+Learned lessons here we go! The lessons are available on the menu of this site. I will be growing this site after I get the right permission. 
+
 
 ## How can you follow us?
 Check out the follow button or the footer at the bottom of this site. We will be maintaining

@@ -8,16 +8,10 @@ modified: 2022-12-25
 
 ---
 ## Who is this?
-This is Zobairto. He kept a diary of his journey, documenting the people he met and the lessons he learned. Through his website building process, he was able to connect with the right person, and his story has become an inspiration to many. Zobairto has shown that with hard work, determination, and the right technology, anything is possible.
-
-As a bonus, other people can read about it to learn from Zobairto's mistakes. 
+This is zobair. He kept a diary of his journey, documenting the people he met and the lessons he learned. Through his website building process, he aims able to connect with the right person and work on improving his writing skills.
 
 ## Why the site was created?
-In summary, this project aims to provide a platform for people to easily find compatible partners. It will facilitate connection between individuals, provide a database for potential matches, and offer a secure and safe environment for users.
-
-Zobairto learned a lot of lessons from his mistakes, and he encourages others to learn from them and move forward quickly. 
-
-And thank you for reading up to this point taking a part of my journey. :)  
+In summary, this project aims to provide some life stories. Wile protecting personal information in an aim to share some life lessons through stories.
 
 ## How can you follow us?
 Check out the follow button or the footer at the bottom of this site. We will be maintaining

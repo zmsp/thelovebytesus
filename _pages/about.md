@@ -1,24 +1,22 @@
 ---
 permalink: /about/
-title: "About Zobairto"
+title: "About Us"
 excerpt: "No Templates"
 layout: single
 date: 2022-12-25
 modified: 2022-12-25
 
 ---
-## Who is this?
-
-This is Zobair! He kept a travel journal, noting all the cool people he met and the life lessons he picked up. With his website-building knowhow, he hopes to make connections and sharpen his writing chops.
-
-## Why the site was created?
-Document life lessons and relationship advices to people in the name of building a goid relationship.
-
-Learned lessons here we go! The lessons are available on the menu of this site. I will be growing this site after I get the right permission from the individual whos kind enough to allow me to share.
+Celebrating the joy of travel, journey and relationships, we're thrilled to share Zobair's creative and inspiring content. From blogs to short videos and interviews, his explorations offer a unique insight into the different cultures he has encountered. With an energetic spirit, Zobair is now ready to launch his very own contents, giving the world the chance to join his incredible adventures.
 
 
-## How can you follow us?
-Check out the follow button or the footer at the bottom of this site. We will be maintaining
-* Instagram
-* Twitter
-... and more... 
+
+## Where are the contents?
+We're planning to blast off on January 1st, 2023, and if you want to be in the know about all the cool, new stuff, you better hit that follow button!
+
+* Check out the newest [posts](/categories/#posts) to stay up to date on the hottest topics!
+* [Instagram](https://www.instagram.com/thelovebytesus/)
+* [Youtube](https://www.youtube.com/@thelovebytesus)
+* [tiktok](https://www.tiktok.com/@thelovebytesus)
+* [twitter](https://twitter.com/thelovebytesus)
+* [landing page](/us/)

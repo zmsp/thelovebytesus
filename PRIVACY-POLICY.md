@@ -2,16 +2,12 @@ Privacy Policy
 ==============
 
 
-### For the Content:
-
-I want to create a safe and comfortable space for anyone who visits this site. I am open to feedback and suggestions to make this a better experience for all. If you have any questions or concerns, please don't hesitate to reach out.
-
-
+I want to create a safe and comfortable space for anyone who visits this site. I am open to feedback and suggestions to make this a better experience for all. If you have any questions or concerns, please don't hesitate to reach out using instagram.
 
 
 ### If you are the visitors of the site
 Information Collection And Use
-------------------------------
+
 
 We collect several different types of information for various purposes to provide and improve our Service to you.
 

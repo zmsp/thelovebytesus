@@ -19,4 +19,4 @@ We're planning to blast off on January 1st, 2023, and if you want to be in the k
 * [Youtube](https://www.youtube.com/@thelovebytesus)
 * [tiktok](https://www.tiktok.com/@thelovebytesus)
 * [twitter](https://twitter.com/thelovebytesus)
-* [landing page](/us/)
+* [landing page](/connect/)

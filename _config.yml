@@ -46,12 +46,12 @@ comments:
     theme: "github-light" # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
   giscus:
-    repo_id: "MDEwOlJlcG9zaXRvcnk1Nzc1MDYyMA==" # Shown during giscus setup at https://giscus.app
+    repo_id: "R_kgDOIrZQ7Q" # Shown during giscus setup at https://giscus.app
     category_name: "General" # Full text name of the category
-    category_id: "DIC_kwDOA3E0XM4B_J5O" # Shown during giscus setup at https://giscus.app
-    discussion_term: # "pathname" (default), "url", "title", "og:title"
+    category_id: "DIC_kwDOIrZQ7c4CTVRH" # Shown during giscus setup at https://giscus.app
+    discussion_term: "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled: "1" # '1' for enabled (default), '0' for disabled
-    theme: "transparent_dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme: "dark_high_contrast" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"

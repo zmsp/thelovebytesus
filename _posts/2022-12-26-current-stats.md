@@ -1,5 +1,5 @@
 ---
-title:  "Statistics after start of the project"
+title:  "Statistics"
 excerpt: "These are the numbers"
 header:
   teaser: https://i.imgur.com/R7CbUmn.jpg
@@ -15,6 +15,21 @@ toc: true
 
 ---
 
-still drafting-- 
+We will keep track a few numbers here to evaluate how well we are doing. Still rethinking. 
 
-rethink the way to keep track of lessons and how they link to a story.
+
+## Some possibilities
+* Number of followers
+* Number of subscribers
+* Number of likes
+* Number of comments
+* Number of shares
+* Number of impressions
+* Average engagement rate
+* Number of website visits
+* Number of email subscribers
+* Friends
+* Followers
+* Relationships
+
+Still thinking things through. So bare with me..

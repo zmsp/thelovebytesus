@@ -30,19 +30,6 @@ On Twitter, we will post all of the project's latest updates.
 <a class="twitter-timeline" href="https://twitter.com/theLoveBytesUs?ref_src=twsrc%5Etfw">Tweets by theLoveBytesUs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### [<i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Youtube](https://www.youtube.com/@thelovebytesus)
-On YouTube, we will share long and short form videos.
-<iframe
- width="720"
- height="576"
- src="{{'https://www.youtube.com/embed/a4LT6DFgYYE/'}}"
- title="YouTube video player"
- frameborder="0"
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
- allowfullscreen>
-</iframe>
-
-
 ### [<i class="fab fa-fw fa-tiktok" aria-hidden="true"></i> tiktok](https://www.tiktok.com/@thelovebytesus)
 
 TikTok, we will share snippets and "love bytes"
